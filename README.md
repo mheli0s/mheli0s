@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mhelioss
 - 👀 I’m interested in all things tech, fitness and healthy living, gym, hiking/nature, reading, learning.
-- 🌱 I’m currently learning and relearning programming languages, speed reading, Google Pixel, Fedora, Github.                                                                                             
+- 🌱 I’m currently learning and relearning programming languages, speed reading, Google Pixel, Fedora, GitHub.                                                                                             
 - 💞️ I’m looking to collaborate on anything I may find interesting.
 - 📫 How to reach me - optimal _at_ duck.com
 
