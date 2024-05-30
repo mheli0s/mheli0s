@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @mhelios
+- 👋 Hi, I’m @mheli0s
 - 👀 I’m interested in all things tech, gym, hiking/nature, reading, learning.
-- 🌱 I’m currently learning programming languages, CyberSec, and related topics.                                                                                           
-- 💞️ I’m looking to collaborate on anything I may find interesting.
-- 📫 How to reach me - twitter.com/mheli0ss
+- 🌱 I’m currently a CyberSec student and learning programming languages such as Python and C#.                                                                                         
 
 <!---
 mheli0s/mhelios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
