@@ -1,8 +1,4 @@
-  ____               _          _ _  ___          ____  
- / / /     _ __ ___ | |__   ___| (_)/ _ \ ___     \ \ \ 
-/ / /_____| '_ ` _ \| '_ \ / _ \ | | | | / __|_____\ \ \
-\ \ \_____| | | | | | | | |  __/ | | |_| \__ \_____/ / /
- \_\_\    |_| |_| |_|_| |_|\___|_|_|\___/|___/    /_/_/ 
+![mheli0s ascii-art](mheli0s_ascii-text-art.png?raw=true "mheli0s ascii-art")
 
 - 👋 Hi, I’m Matt.
 - 👀 I’m interested in all things tech, gym, hiking/nature, reading, learning.
