@@ -1,6 +1,6 @@
 ![mheli0s ascii-art](mheli0s_ascii-text-art.png?raw=true "mheli0s ascii-art")
 
-- 👋 Hi, I’m Matt.
+- 👋 Hi!
 - 👀 I’m interested in all things tech, gym, hiking/nature, reading, learning.
 - 🌱 I’m currently a CyberSec student and learning programming languages such as Python and C#.                                                                                         
 
