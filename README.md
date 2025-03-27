@@ -2,7 +2,7 @@
 
 - 👋 Hi!
 - 👀 I’m interested in all things tech, gym, hiking/nature, reading, learning.
-- 🌱 I’m currently a CyberSec student and learning programming languages such as Python and C#.                                                                                         
+- 🌱 I recently completed post-graduate studies in CyberSecurity and Networks.                                                                                         
 
 <!---
 mheli0s/mhelios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
