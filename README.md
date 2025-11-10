@@ -2,10 +2,10 @@
 
 - 👋 Hi!
 - 👀 I’m interested in tech/IT, gym, hiking/nature, reading, learning.
-- 🌱 I recently completed post-graduate studies in CyberSecurity and Networks.                                                                                         
-<!---
+- 🌱 I recently completed post-graduate studies in CyberSecurity and Networks.
+                                                                                         
 [![roadmap.sh](https://roadmap.sh/card/tall/680f2bf1fe43d1abf20a49bf?variant=dark)](https://roadmap.sh)
---->
+
 <!---
 mheli0s/mhelios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
