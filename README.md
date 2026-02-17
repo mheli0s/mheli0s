@@ -1,8 +1,10 @@
 ![mheli0s ascii-art](mheli0s_ascii-text-art.png?raw=true "mheli0s ascii-art")
 
 - 👋 Hi!
-- 👀 I’m interested in tech/IT, gym, hiking/nature, reading, learning.
+- 👀 I’m interested in tech/cybersecurity.
 - 🌱 I recently completed post-graduate studies in CyberSecurity and Networks.
+
+[![tryhackme profile badge](<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3083694" style='border:none;'></iframe>)]
                                                                                          
 [![roadmap.sh](https://roadmap.sh/card/tall/680f2bf1fe43d1abf20a49bf?variant=dark)](https://roadmap.sh)
 
