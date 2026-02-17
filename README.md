@@ -4,7 +4,7 @@
 - 👀 I’m interested in tech/cybersecurity.
 - 🌱 I recently completed post-graduate studies in CyberSecurity and Networks.
 
-[![tryhackme profile badge](<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3083694" style='border:none;'></iframe>)](https://tryhackme.com/p/mh3li0s)
+[![tryhackme profile badge](https://tryhackme-badges.s3.amazonaws.com/mh3li0s.png)](https://tryhackme.com/p/mh3li0s)
                                                                                          
 [![roadmap.sh](https://roadmap.sh/card/tall/680f2bf1fe43d1abf20a49bf?variant=dark)](https://roadmap.sh)
 
